@@ -9,6 +9,7 @@
 <hr>
 
 <h2>HOME</h2>
+<h2> SEARCH</h2>
 
 </body>
 </html>
